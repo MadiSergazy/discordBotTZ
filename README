@@ -1,0 +1,4 @@
+cd to directory
+$ go mod tidy
+$ go build
+$ ./discgo-poll --token <discord bot token>
